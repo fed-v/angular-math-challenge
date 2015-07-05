@@ -1,0 +1,25 @@
+{
+  "name": "angular-math-challenge",
+  "version": "1.0.0",
+  "description": "A simple math quiz game for kids to practice basic math problems.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fed-v/angular-math-challenge.git"
+  },
+  "author": "Federico Venturino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fed-v/angular-math-challenge/issues"
+  },
+  "homepage": "https://github.com/fed-v/angular-math-challenge",
+  "devDependencies": {
+    "bower": "^1.4.1",
+    "http-server": "^0.8.0",
+    "karma": "^0.12.36",
+    "protractor": "^2.1.0"
+  }
+}
