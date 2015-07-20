@@ -1,30 +1,23 @@
-/* Space out content a bit */
-body {
-  padding-top: 30px;
-  padding-bottom: 30px;
-}
 
-.container {
+.page-content {
     text-align:center;
+    width:80%;
+	margin:auto;
+    margin-top:30px;
     border:1px solid #666;
-    -moz-box-shadow: 0 0 20px black; 
-	-webkit-box-shadow: 0 0 20px black; 
-	box-shadow: 0 0 20px black; 
+    -moz-box-shadow: 0 0 20px black;
+	-webkit-box-shadow: 0 0 20px black;
+	box-shadow: 0 0 20px black;
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     border-radius: 10px;
+    padding:20px;
  }
 
-
-.container{
-	width:80%;
-	margin:auto;
-}
 
 /* Custom page header */
 header {
   padding-bottom: 20px;
-  background: #ccc;
 }
 
 main{
@@ -36,7 +29,7 @@ main{
 }
 
 footer{
-    height:50px;
+    text-align: center;
 }
 
 .lives{
@@ -55,4 +48,3 @@ footer{
     width: 90%;
   }
 }
-
