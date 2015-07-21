@@ -1,28 +1,20 @@
+.mdl-layout{
+    width:100%;
+    margin:auto;
+    max-width: 768px;
+    border-left:1px solid #ccc;
+    border-right:1px solid #ccc;
 
-.page-content {
-    text-align:center;
-    width:80%;
-	margin:auto;
-    margin-top:30px;
-    border:1px solid #666;
     -moz-box-shadow: 0 0 20px black;
 	-webkit-box-shadow: 0 0 20px black;
 	box-shadow: 0 0 20px black;
-    -webkit-border-radius: 10px;
-    -moz-border-radius: 10px;
-    border-radius: 10px;
-    padding:20px;
- }
-
-
-/* Custom page header */
-header {
-  padding-bottom: 20px;
 }
 
-main{
-    height:350px;
+.page-content {
+    text-align:center;
+    margin-top:30px;
 }
+
 
 #game-section{
     margin-top:25px;
